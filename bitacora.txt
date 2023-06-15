@@ -1,0 +1,11 @@
+commit 2cec308a0e710d27b821d5b7a9b9e5483d02674c
+Author: JasonOrtega10 <jortegal1@miumg.edu.gt>
+Date:   Thu Jun 15 12:55:40 2023 -0600
+
+    Se agrego el procedimiento
+
+commit bdc72ba83006700e9af13a5b9811071de80b3430
+Author: Jason Ortega <jortegal1@miumg.edu.gt>
+Date:   Thu Jun 15 09:31:56 2023 -0600
+
+    Initial commit

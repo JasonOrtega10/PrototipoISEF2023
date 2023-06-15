@@ -1,0 +1,42 @@
+commit cd14fa8a9cc406de0e5b965c032b88b7be2e72d7
+Author: JasonOrtega10 <jortegal1@miumg.edu.gt>
+Date:   Thu Jun 15 12:53:45 2023 -0600
+
+    Se agrego el procedimiento
+
+commit 7f1b592bb84bb1ed9bd92cfc89d7b8b39e721f9e
+Merge: 42a277f 225f269
+Author: JasonOrtega10 <jortegal1@miumg.edu.gt>
+Date:   Thu Jun 15 11:14:20 2023 -0600
+
+    Merge branch 'RamaContenedor09011922658' of https://github.com/JasonOrtega10/PrototipoISEF2023 into RamaMantenimiento09011922658
+
+commit 42a277ff3bc7abe2fe5ca33a68ebbde0ecb090d8
+Author: JasonOrtega10 <jortegal1@miumg.edu.gt>
+Date:   Thu Jun 15 11:06:12 2023 -0600
+
+    Se agrego el mantenimiento de Tipo Puesto
+
+commit 225f26907e29d99cd44a742654488e4bf73ff0ae
+Author: JasonOrtega10 <jortegal1@miumg.edu.gt>
+Date:   Thu Jun 15 11:04:27 2023 -0600
+
+    Se creo en contenedor
+
+commit bdc72ba83006700e9af13a5b9811071de80b3430
+Author: Jason Ortega <jortegal1@miumg.edu.gt>
+Date:   Thu Jun 15 09:31:56 2023 -0600
+
+    Initial commit
+commit 2cec308a0e710d27b821d5b7a9b9e5483d02674c
+Author: JasonOrtega10 <jortegal1@miumg.edu.gt>
+Date:   Thu Jun 15 12:55:40 2023 -0600
+
+    Se agrego el procedimiento
+
+commit bdc72ba83006700e9af13a5b9811071de80b3430
+Author: Jason Ortega <jortegal1@miumg.edu.gt>
+Date:   Thu Jun 15 09:31:56 2023 -0600
+
+    Initial commit
+
