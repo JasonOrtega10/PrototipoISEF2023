@@ -1,0 +1,70 @@
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\RepositorioJasonFINAAAAL\proyectois2k23\Codigo\Modulos\CxP\CxP\CxPControlador\bin\Debug\CxPControlador.dll
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\RepositorioJasonFINAAAAL\proyectois2k23\Codigo\Modulos\CxP\CxP\CxPControlador\bin\Debug\CxPControlador.pdb
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\RepositorioJasonFINAAAAL\proyectois2k23\Codigo\Modulos\CxP\CxP\CxPControlador\bin\Debug\CapaVistaReporteria.dll
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\RepositorioJasonFINAAAAL\proyectois2k23\Codigo\Modulos\CxP\CxP\CxPControlador\bin\Debug\CxPModelo.dll
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\RepositorioJasonFINAAAAL\proyectois2k23\Codigo\Modulos\CxP\CxP\CxPControlador\bin\Debug\CapaControladorReporteria.dll
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\RepositorioJasonFINAAAAL\proyectois2k23\Codigo\Modulos\CxP\CxP\CxPControlador\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\RepositorioJasonFINAAAAL\proyectois2k23\Codigo\Modulos\CxP\CxP\CxPControlador\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\RepositorioJasonFINAAAAL\proyectois2k23\Codigo\Modulos\CxP\CxP\CxPControlador\bin\Debug\CapaModeloReporteria.dll
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\RepositorioJasonFINAAAAL\proyectois2k23\Codigo\Modulos\CxP\CxP\CxPControlador\bin\Debug\CrystalDecisions.Shared.dll
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\RepositorioJasonFINAAAAL\proyectois2k23\Codigo\Modulos\CxP\CxP\CxPControlador\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\RepositorioJasonFINAAAAL\proyectois2k23\Codigo\Modulos\CxP\CxP\CxPControlador\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\RepositorioJasonFINAAAAL\proyectois2k23\Codigo\Modulos\CxP\CxP\CxPControlador\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\RepositorioJasonFINAAAAL\proyectois2k23\Codigo\Modulos\CxP\CxP\CxPControlador\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\RepositorioJasonFINAAAAL\proyectois2k23\Codigo\Modulos\CxP\CxP\CxPControlador\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\RepositorioJasonFINAAAAL\proyectois2k23\Codigo\Modulos\CxP\CxP\CxPControlador\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\RepositorioJasonFINAAAAL\proyectois2k23\Codigo\Modulos\CxP\CxP\CxPControlador\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\RepositorioJasonFINAAAAL\proyectois2k23\Codigo\Modulos\CxP\CxP\CxPControlador\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\RepositorioJasonFINAAAAL\proyectois2k23\Codigo\Modulos\CxP\CxP\CxPControlador\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\RepositorioJasonFINAAAAL\proyectois2k23\Codigo\Modulos\CxP\CxP\CxPControlador\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\RepositorioJasonFINAAAAL\proyectois2k23\Codigo\Modulos\CxP\CxP\CxPControlador\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\RepositorioJasonFINAAAAL\proyectois2k23\Codigo\Modulos\CxP\CxP\CxPControlador\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\RepositorioJasonFINAAAAL\proyectois2k23\Codigo\Modulos\CxP\CxP\CxPControlador\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\RepositorioJasonFINAAAAL\proyectois2k23\Codigo\Modulos\CxP\CxP\CxPControlador\bin\Debug\stdole.dll
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\RepositorioJasonFINAAAAL\proyectois2k23\Codigo\Modulos\CxP\CxP\CxPControlador\bin\Debug\CxPModelo.pdb
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\RepositorioJasonFINAAAAL\proyectois2k23\Codigo\Modulos\CxP\CxP\CxPControlador\bin\Debug\CapaVistaReporteria.pdb
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\RepositorioJasonFINAAAAL\proyectois2k23\Codigo\Modulos\CxP\CxP\CxPControlador\bin\Debug\CapaVistaReporteria.dll.config
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\RepositorioJasonFINAAAAL\proyectois2k23\Codigo\Modulos\CxP\CxP\CxPControlador\bin\Debug\CapaControladorReporteria.pdb
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\RepositorioJasonFINAAAAL\proyectois2k23\Codigo\Modulos\CxP\CxP\CxPControlador\bin\Debug\CapaModeloReporteria.pdb
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\RepositorioJasonFINAAAAL\proyectois2k23\Codigo\Modulos\CxP\CxP\CxPControlador\obj\Debug\CxPControlador.csproj.AssemblyReference.cache
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\RepositorioJasonFINAAAAL\proyectois2k23\Codigo\Modulos\CxP\CxP\CxPControlador\obj\Debug\CxPControlador.csproj.CoreCompileInputs.cache
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\RepositorioJasonFINAAAAL\proyectois2k23\Codigo\Modulos\CxP\CxP\CxPControlador\obj\Debug\CxPControlador.dll
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\RepositorioJasonFINAAAAL\proyectois2k23\Codigo\Modulos\CxP\CxP\CxPControlador\obj\Debug\CxPControlador.pdb
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\RepositorioJasonFINAAAAL\proyectois2k23\Codigo\Modulos\CxP\CxP\CxPControlador\obj\Debug\CxPControlador.csproj.CopyComplete
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\FINAL\parcial final\PrototipoISEF2023\PrototipoISEF2023\Codigo\Modulos\CxP\CxP\CxPControlador\obj\Debug\CxPControlador.csproj.AssemblyReference.cache
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\FINAL\parcial final\PrototipoISEF2023\PrototipoISEF2023\Codigo\Modulos\CxP\CxP\CxPControlador\obj\Debug\CxPControlador.csproj.CoreCompileInputs.cache
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\FINAL\parcial final\PrototipoISEF2023\PrototipoISEF2023\Codigo\Modulos\CxP\CxP\CxPControlador\obj\Debug\CxPControlador.dll
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\FINAL\parcial final\PrototipoISEF2023\PrototipoISEF2023\Codigo\Modulos\CxP\CxP\CxPControlador\obj\Debug\CxPControlador.pdb
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\FINAL\parcial final\PrototipoISEF2023\PrototipoISEF2023\Codigo\Modulos\CxP\CxP\CxPControlador\bin\Debug\CxPControlador.dll
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\FINAL\parcial final\PrototipoISEF2023\PrototipoISEF2023\Codigo\Modulos\CxP\CxP\CxPControlador\bin\Debug\CxPControlador.pdb
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\FINAL\parcial final\PrototipoISEF2023\PrototipoISEF2023\Codigo\Modulos\CxP\CxP\CxPControlador\bin\Debug\CapaVistaReporteria.dll
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\FINAL\parcial final\PrototipoISEF2023\PrototipoISEF2023\Codigo\Modulos\CxP\CxP\CxPControlador\bin\Debug\CxPModelo.dll
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\FINAL\parcial final\PrototipoISEF2023\PrototipoISEF2023\Codigo\Modulos\CxP\CxP\CxPControlador\bin\Debug\Seguridad_Controlador.dll
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\FINAL\parcial final\PrototipoISEF2023\PrototipoISEF2023\Codigo\Modulos\CxP\CxP\CxPControlador\bin\Debug\CapaControladorReporteria.dll
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\FINAL\parcial final\PrototipoISEF2023\PrototipoISEF2023\Codigo\Modulos\CxP\CxP\CxPControlador\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\FINAL\parcial final\PrototipoISEF2023\PrototipoISEF2023\Codigo\Modulos\CxP\CxP\CxPControlador\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\FINAL\parcial final\PrototipoISEF2023\PrototipoISEF2023\Codigo\Modulos\CxP\CxP\CxPControlador\bin\Debug\Modelo_Seguridad.dll
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\FINAL\parcial final\PrototipoISEF2023\PrototipoISEF2023\Codigo\Modulos\CxP\CxP\CxPControlador\bin\Debug\CapaModeloReporteria.dll
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\FINAL\parcial final\PrototipoISEF2023\PrototipoISEF2023\Codigo\Modulos\CxP\CxP\CxPControlador\bin\Debug\CrystalDecisions.Shared.dll
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\FINAL\parcial final\PrototipoISEF2023\PrototipoISEF2023\Codigo\Modulos\CxP\CxP\CxPControlador\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\FINAL\parcial final\PrototipoISEF2023\PrototipoISEF2023\Codigo\Modulos\CxP\CxP\CxPControlador\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\FINAL\parcial final\PrototipoISEF2023\PrototipoISEF2023\Codigo\Modulos\CxP\CxP\CxPControlador\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\FINAL\parcial final\PrototipoISEF2023\PrototipoISEF2023\Codigo\Modulos\CxP\CxP\CxPControlador\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\FINAL\parcial final\PrototipoISEF2023\PrototipoISEF2023\Codigo\Modulos\CxP\CxP\CxPControlador\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\FINAL\parcial final\PrototipoISEF2023\PrototipoISEF2023\Codigo\Modulos\CxP\CxP\CxPControlador\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\FINAL\parcial final\PrototipoISEF2023\PrototipoISEF2023\Codigo\Modulos\CxP\CxP\CxPControlador\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\FINAL\parcial final\PrototipoISEF2023\PrototipoISEF2023\Codigo\Modulos\CxP\CxP\CxPControlador\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\FINAL\parcial final\PrototipoISEF2023\PrototipoISEF2023\Codigo\Modulos\CxP\CxP\CxPControlador\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\FINAL\parcial final\PrototipoISEF2023\PrototipoISEF2023\Codigo\Modulos\CxP\CxP\CxPControlador\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\FINAL\parcial final\PrototipoISEF2023\PrototipoISEF2023\Codigo\Modulos\CxP\CxP\CxPControlador\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\FINAL\parcial final\PrototipoISEF2023\PrototipoISEF2023\Codigo\Modulos\CxP\CxP\CxPControlador\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\FINAL\parcial final\PrototipoISEF2023\PrototipoISEF2023\Codigo\Modulos\CxP\CxP\CxPControlador\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\FINAL\parcial final\PrototipoISEF2023\PrototipoISEF2023\Codigo\Modulos\CxP\CxP\CxPControlador\bin\Debug\stdole.dll
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\FINAL\parcial final\PrototipoISEF2023\PrototipoISEF2023\Codigo\Modulos\CxP\CxP\CxPControlador\bin\Debug\CxPModelo.pdb
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\FINAL\parcial final\PrototipoISEF2023\PrototipoISEF2023\Codigo\Modulos\CxP\CxP\CxPControlador\bin\Debug\CapaVistaReporteria.pdb
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\FINAL\parcial final\PrototipoISEF2023\PrototipoISEF2023\Codigo\Modulos\CxP\CxP\CxPControlador\bin\Debug\CapaVistaReporteria.dll.config
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\FINAL\parcial final\PrototipoISEF2023\PrototipoISEF2023\Codigo\Modulos\CxP\CxP\CxPControlador\bin\Debug\Seguridad_Controlador.pdb
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\FINAL\parcial final\PrototipoISEF2023\PrototipoISEF2023\Codigo\Modulos\CxP\CxP\CxPControlador\bin\Debug\CapaControladorReporteria.pdb
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\FINAL\parcial final\PrototipoISEF2023\PrototipoISEF2023\Codigo\Modulos\CxP\CxP\CxPControlador\bin\Debug\Modelo_Seguridad.pdb
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\FINAL\parcial final\PrototipoISEF2023\PrototipoISEF2023\Codigo\Modulos\CxP\CxP\CxPControlador\bin\Debug\CapaModeloReporteria.pdb
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\FINAL\parcial final\PrototipoISEF2023\PrototipoISEF2023\Codigo\Modulos\CxP\CxP\CxPControlador\obj\Debug\CxPControlador.csproj.CopyComplete

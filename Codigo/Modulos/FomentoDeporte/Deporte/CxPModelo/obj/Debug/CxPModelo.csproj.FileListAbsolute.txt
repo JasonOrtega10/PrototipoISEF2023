@@ -1,0 +1,12 @@
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\RepositorioJasonFINAAAAL\proyectois2k23\Codigo\Modulos\CxP\CxP\CxPModelo\bin\Debug\CxPModelo.dll
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\RepositorioJasonFINAAAAL\proyectois2k23\Codigo\Modulos\CxP\CxP\CxPModelo\bin\Debug\CxPModelo.pdb
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\RepositorioJasonFINAAAAL\proyectois2k23\Codigo\Modulos\CxP\CxP\CxPModelo\obj\Debug\CxPModelo.csproj.CoreCompileInputs.cache
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\RepositorioJasonFINAAAAL\proyectois2k23\Codigo\Modulos\CxP\CxP\CxPModelo\obj\Debug\CxPModelo.dll
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\RepositorioJasonFINAAAAL\proyectois2k23\Codigo\Modulos\CxP\CxP\CxPModelo\obj\Debug\CxPModelo.pdb
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\RepositorioJasonFINAAAAL\proyectois2k23\Codigo\Modulos\CxP\CxP\CxPModelo\obj\Debug\CxPModelo.csproj.AssemblyReference.cache
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\FINAL\parcial final\PrototipoISEF2023\PrototipoISEF2023\Codigo\Modulos\CxP\CxP\CxPModelo\bin\Debug\CxPModelo.dll
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\FINAL\parcial final\PrototipoISEF2023\PrototipoISEF2023\Codigo\Modulos\CxP\CxP\CxPModelo\bin\Debug\CxPModelo.pdb
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\FINAL\parcial final\PrototipoISEF2023\PrototipoISEF2023\Codigo\Modulos\CxP\CxP\CxPModelo\obj\Debug\CxPModelo.csproj.AssemblyReference.cache
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\FINAL\parcial final\PrototipoISEF2023\PrototipoISEF2023\Codigo\Modulos\CxP\CxP\CxPModelo\obj\Debug\CxPModelo.csproj.CoreCompileInputs.cache
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\FINAL\parcial final\PrototipoISEF2023\PrototipoISEF2023\Codigo\Modulos\CxP\CxP\CxPModelo\obj\Debug\CxPModelo.dll
+E:\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\FINAL\parcial final\PrototipoISEF2023\PrototipoISEF2023\Codigo\Modulos\CxP\CxP\CxPModelo\obj\Debug\CxPModelo.pdb
